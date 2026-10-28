@@ -1,0 +1,14 @@
+{
+  "title": "Drapeaux",
+  "description": "Un drapeau, quelques secondes de panique : devine le pays avant tes potes. Solo, survie, contre-la-montre ou en ligne jusqu'à 8.",
+  "author": "ChadGang",
+  "category": "Quiz",
+  "emoji": "🏁",
+  "image": "cover.png",
+  "classement": "victoires",
+  "classements": [
+    { "id": "classique", "titre": "Solo classique", "classement": "score", "unite": "pts" },
+    { "id": "chrono", "titre": "Contre-la-montre", "classement": "score", "unite": "pts" },
+    { "id": "survie", "titre": "Survie", "classement": "score", "unite": "pts" }
+  ]
+}
